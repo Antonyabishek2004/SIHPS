@@ -1,14 +1,14 @@
-![image](https://github.com/user-attachments/assets/361c11c8-1478-46fb-99fe-e590435f3d6d)# Smart India Hackathon Workshop
+
 # Date: 24:09:2024
 ## Register Number:212223240009
 ## Name:ANTONY ABISHEK
 
 ## Problem Title 
+Development of e-Portal for facilitating Case Management Hearing of various types of cases
 
-
-E-Waste Facility Locator
 ## Problem Description
 Website that tells you the location of the nearest e-waste collection and recycling facility. Offers educational pop-ups on the harmful components of your e-waste and their effects on the environment and human health if not disposed correctly. There could be an option to input the model of your old device and earn credit points relative to the amount of precious metals recovered from the device if disposed correctly.
+
 ## Problem Creater's Organization
 Ministry of Environment
 
